@@ -1,0 +1,29 @@
+.box1{
+  background-color: blue;
+  width: 100px;
+  height:80px;
+  position: relative;
+  left: 180px;
+  top: 180px;
+  box-shadow: 10px 10px black;
+  transform: rotate(30deg);
+}
+
+.box2{
+  background-color: brown;
+  width: 120px;
+  height: 90px;
+  margin-left: 180px;
+  border-radius: 50%;
+  clear: both;
+}
+
+.box3{
+  background-color: violet;
+  width: 100px;
+  height:80px;
+  position: relative;
+  top: 120px;
+  left: 180px;
+  transform: rotate(290deg);
+}
